@@ -35,6 +35,8 @@ Evaluation Metrics: MAE, RMSE
 
 📈 Seasonality Detection – Extract recurring patterns over the year.
 
+The dataset was collected from Kaggle or a public source(https://www.kaggle.com/datasets/justinwilcher/nashville-accident-reports-jan-2018-apl-2025)
+
 🧪 Stationarity Testing – Validate data readiness for time series modeling.
 
 🔮 Forecasting – Predict future injury counts using ARIMA models.
